@@ -13,7 +13,7 @@
 		}
 	],
 	"support": {
-		"source": "https://github.com/nodge/yii2-eauth"
+		"source": "https://github.com/BEP-Project/yii2-eauth"
 	},
 	"autoload": {
 		"psr-4": {
